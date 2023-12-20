@@ -1,5 +1,4 @@
 # Django Music Streaming App
-An online streaming app using Django http://listenapp.manjurulhoque.com/
 
 Features:
 
